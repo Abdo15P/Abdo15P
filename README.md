@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+
+### I am Abdelrahman Aly. I am a Mechtronics Engineering Graduate, and I am currently pursuing a career in DevOps.
+
+## Certifications:
+-RHCSA
+-AZ-900(Coming up)
+-AZ-104(Coming up)
+
+## Technologies:
+-Linux
+-Bash
+-Git
+-Python
+-YAML
+
 
 <!--
 **Abdo15P/Abdo15P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
