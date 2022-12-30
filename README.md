@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I am Abdelrahman Aly. I am a Mechtronics Engineering Graduate, and I am currently pursuing a career in DevOps.
+### I am Abdelrahman Aly. I am a Mechatronics Engineering Graduate, and I am currently pursuing a career in DevOps.
 
 ## Certifications:
 -RHCSA
