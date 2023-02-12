@@ -4,8 +4,8 @@
 
 ## Certifications:
 -RHCSA
--AZ-900(Coming up)
--AZ-104(Coming up)
+-AZ-900
+-AZ-104
 
 ## Technologies:
 -Linux
@@ -13,6 +13,7 @@
 -Git
 -Python
 -YAML
+-Azure
 
 
 <!--
