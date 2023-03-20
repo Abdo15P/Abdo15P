@@ -4,15 +4,30 @@
 
 ## Certifications:
 -RHCSA
+
 -AZ-900
+
 -AZ-104
 
 ## Technologies:
 -Linux
+
 -Bash
+
 -Git
+
+-GitHub Actions
+
+-Jenkins
+
+-Docker
+
+-Kubernetes
+
+-Terraform
+
 -Python
--YAML
+
 -Azure
 
 
